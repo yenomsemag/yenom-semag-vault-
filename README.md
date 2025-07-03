@@ -1,2 +1,2 @@
-# YENOM SEMAG Vault
-This is the custom beat catalog and submission app for CaVino and Ice Ice God.
+# YENOM SEMAG VAULT
+Custom beat catalog UI for CaVino and Ice Ice God.
